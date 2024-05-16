@@ -1,0 +1,20 @@
+.card-detail-container {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #f1f5f9;
+  width: 70vw;
+  height: 70vh;
+}
+
+.course-big-image {
+  height: 70vh;
+  width: 30vw;
+}
+
+.products-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+}

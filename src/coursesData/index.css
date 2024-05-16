@@ -1,0 +1,18 @@
+.list-item {
+  display: flex;
+  justify-content: space-around;
+  width: 16vw;
+  font-family: Roboto;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.image {
+  height: 60px;
+  width: 45px;
+}
+
+.course-heading {
+  font-size: 20px;
+  margin-top: 10px;
+}

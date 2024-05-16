@@ -1,0 +1,25 @@
+.retry-button {
+  height: 5vh;
+  width: 8vw;
+  text-align: center;
+}
+
+.unordered-course-list-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 90vw;
+}
+
+.products-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.course-heading {
+  margin-left: 35px;
+  font-size: 20px;
+}

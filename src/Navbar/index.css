@@ -1,0 +1,12 @@
+.nav-container {
+  background-color: #f1f5f9;
+  height: 10vh;
+  width: 100vw;
+  padding: 10px;
+}
+
+.wesite-logo {
+  height: 40px;
+  width: 100px;
+  margin-left: 30px;
+}
