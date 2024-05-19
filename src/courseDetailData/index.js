@@ -82,7 +82,7 @@ class CourseDetail extends Component {
       <button
         className="retry-button"
         type="button"
-        onClick={this.getCoursesData()}
+        onClick={this.getCourseDetailData()}
       >
         Retry
       </button>
